@@ -14,6 +14,6 @@ Do you know the fact that i'm infront of your door?
 <details>
   <summary></summary>
 
-<img src="https://github-readme-stats.vercel.app/api?show_icons=true&hide=issues&username=ekickx"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=yrifl">
+<img src="https://github-readme-stats.vercel.app/api?show_icons=true&hide=issues&username=yrifl"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=yrifl">
 
 </details>
