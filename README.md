@@ -1,4 +1,4 @@
-## Did you know that
+## Facts?
 
 <h3>
   <blockquote>
