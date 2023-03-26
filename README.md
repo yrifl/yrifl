@@ -1,16 +1,18 @@
-### Hi there 👋
+## Did you know that
 
-<!--
-**yrifl/yrifl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
+  <blockquote>
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+""I am." is the shortest complete sentence in the English language."
+<!--END_SECTION:debris-->
+  </blockquote>
+</h3>
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary></summary>
+
+<img src="https://github-readme-stats.vercel.app/api?show_icons=true&hide=issues&username=ekickx"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ekickx">
+
+</details>
