@@ -4,7 +4,8 @@
   <blockquote>
 <!--START_SECTION:debris-->                                                                                                                                                   
 Do you know the fact that i'm infront of your door?
-    
+    ![download (1)](https://user-images.githubusercontent.com/79893882/227786785-76adbadb-4ba7-402e-bfc6-e3d202625058.jpg)
+
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
@@ -14,6 +15,6 @@ Do you know the fact that i'm infront of your door?
 <details>
   <summary></summary>
 
-<img src="https://github-readme-stats.vercel.app/api?show_icons=true&hide=issues&username=yrifl"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=yrifl">
+    ![Lol](https://user-images.githubusercontent.com/79893882/227786785-76adbadb-4ba7-402e-bfc6-e3d202625058.jpg)
 
 </details>
