@@ -1,5 +1,5 @@
 ## Facts?
-![](https://dcbadge.vercel.app/api/shield/748011241917775893?style=flat&theme=clean&compact=true)
+
 <h3>
   <blockquote>
 <!--START_SECTION:debris-->                                                                                                                                                   
@@ -10,6 +10,9 @@ Do you know the fact that i'm infront of your door?
 </h3>
 
 -----
+
+![](https://dcbadge.vercel.app/api/shield/748011241917775893?style=flat)
+
 
 <details>
   <summary></summary>
