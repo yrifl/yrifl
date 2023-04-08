@@ -11,8 +11,8 @@ Do you know the fact that i'm infront of your door?
 
 -----
 
-![](https://dcbadge.vercel.app/api/shield/748011241917775893?style=flat)
-
+![](https://dcbadge.vercel.app/api/shield/748011241917775893?style=flat) ![](https://img.shields.io/twitter/follow/u_int42?style=social)
+![](https://komarev.com/ghpvc/?username=yrifl&color=brightgreen)
 
 <details>
   <summary></summary>
