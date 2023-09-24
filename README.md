@@ -1,16 +1,3 @@
-## Facts?
-
-<h3>
-  <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                   
-Do you know the fact that i'm infront of your door?
-
-<!--END_SECTION:debris-->
-  </blockquote>
-</h3>
-
------
-
 ![](https://dcbadge.vercel.app/api/shield/748011241917775893?style=flat)
 ![](https://komarev.com/ghpvc/?username=yrifl&color=brightgreen)
 
