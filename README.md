@@ -1,4 +1,1 @@
-### Coffee ☕ 
-
-
-# :3
+[☕] You want some coffee? <(^.^)>
