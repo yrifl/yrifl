@@ -1,13 +1,13 @@
 <p align="center">
-  This sincere looking cat    
+  This sincere looking cat
 </p>
 
 <p align="center">
-    <img src="https://github.com/yrifl/yrifl/assets/79893882/420f6416-ba76-46e3-8b10-024e4be1962d" />
+    <img src="https://raw.githubusercontent.com/yrifl/yrifl/master/sincere-cat.png" />
 </p>
 
 <p align="center">
-  Mastered at:    
+  Mastered at:
 </p>
 
 <p align="center">
@@ -17,4 +17,3 @@
 <p align="center">
     He fucking hates frontend.
 </p>
-
