@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,py,fastapi,js,ts,,rust,git,vscode&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=lua,py,js,ts,nim,rust,linux,git,vscode,flask,mongodb,fastapi&theme=dark&perline=6" />
 </p>
 
 <p align="center">
